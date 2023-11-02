@@ -1,6 +1,6 @@
 .card{
     margin:1rem;
-    background: linear-gradient(to top, #d0bdf4, #E6E6FA);
+    background: linear-gradient(to bottom, #fc4dca, pink);
     max-width: 20rem;
     display: grid;
 
