@@ -14,7 +14,7 @@
     font-style: italic bold;
     font-weight: bolder;
     font-family: cursive;
-    color: #009900;
+    color: Yellow;
 
 }
 .card-text{ margin: 10px; ;
@@ -23,7 +23,7 @@
     font-size: large;
     font-style: italic bold;
     font-family: cursive;
-    color: orangered ;
+    color: Navy;
 
 }
 .Weather{
