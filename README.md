@@ -30,6 +30,8 @@ This project is a simple web application that utilizes the Fetch API to retrieve
 ### deployed Link 
 [Click to open](https://splendorous-gnome-f2a4e0.netlify.app/)
 
+## Screenshots
+![image](https://github.com/Suryaprakash-G26/Weather/assets/141228691/ec7ac272-0aa5-4605-9d46-0fd2c6a4dfa1)
 
 ## Contact
 
